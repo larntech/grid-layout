@@ -49,6 +49,7 @@
 
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/users"
                 android:layout_height="0dp"
                 android:layout_width="0dp"
                 android:layout_columnWeight="1"
@@ -82,6 +83,7 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:id="@+id/addusers"
                 android:layout_height="0dp"
                 android:layout_width="0dp"
                 android:layout_columnWeight="1"
@@ -117,6 +119,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/reports"
                 android:layout_height="0dp"
                 android:layout_width="0dp"
                 android:layout_columnWeight="1"
@@ -152,6 +155,7 @@
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+                android:id="@+id/settings"
                 android:layout_height="0dp"
                 android:layout_width="0dp"
                 android:layout_columnWeight="1"
